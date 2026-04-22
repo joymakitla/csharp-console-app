@@ -15,3 +15,12 @@ This project is a C# console application developed using Visual Studio. It demon
 ## Author
 Joy Makitla
 [C# Console Application](https://github.com/joymakitla/csharp-console-app)
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   git clone https://github.com/joymakitla/csharp-console-app
+
+2. Open the project in Visual Studio
+
+3. Build and run the application
