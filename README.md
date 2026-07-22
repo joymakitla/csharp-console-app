@@ -24,3 +24,5 @@ Joy Makitla
 2. Open the project in Visual Studio
 
 3. Build and run the application
+         OR
+4. Copy code from Program.cs and paste it inside your Visual Studio and run the code
